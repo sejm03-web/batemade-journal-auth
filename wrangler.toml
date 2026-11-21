@@ -1,0 +1,9 @@
+
+#:schema node_modules/wrangler/config-schema.json
+
+name = "batemade-journal-auth"
+main = "src/index.ts"
+compatibility_date = "2025-11-17"
+
+[vars]
+GITHUB_REPO_PRIVATE = "1"
